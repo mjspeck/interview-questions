@@ -1,4 +1,4 @@
 # Statistics-related Questions
 
-- What are 'mean', 'median', and 'mode?'
-- What is Bayes' theorem?
+- **Q**: What are 'mean', 'median', and 'mode?'
+- **Q**: What is Bayes' theorem?
